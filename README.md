@@ -6,10 +6,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Current:** Freshman in **Data Science** (Sinh viên năm nhất ngành Khoa Học Dữ Liệu).
-- 🎯 **Goal:** Becoming a professional **AI Engineer**.
-- 🚀 **Passion:** Deep Learning, AI Agents, and automating everything with AI.
-- 🏴‍☠️ **Fan of:** One Piece (Huge fan of Luffy's spirit!).
+- **Current:** Freshman in **Data Science** (Sinh viên năm nhất ngành Khoa Học Dữ Liệu).
+- **Goal:** Becoming a professional **AI Engineer**.
+- **Passion:** Deep Learning, AI Agents, and automating everything with AI.
+- **Fan of:** One Piece (Huge fan of Luffy's spirit!).
 
 ---
 
