@@ -34,13 +34,11 @@
 
 ---
 
-### 📊 GitHub Stats (Cool Effects)
+### 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=graviton711&show_icons=true&theme=radical&rank_icon=github" alt="Sơn's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graviton711&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=graviton711&theme=dracula" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=graviton711&theme=dracula" />
 </p>
 
 ### 🐍 My Contribution Snake
