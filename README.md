@@ -34,12 +34,23 @@
 
 ---
 
-### 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=graviton711&theme=dracula" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=graviton711&theme=dracula" />
-</p>
+### 📊 GitHub Stats
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=graviton711&theme=default"
+        width="520"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=graviton711&theme=default"
+        width="350"
+      />
+    </td>
+  </tr>
+</table>
 
 ### 🐍 My Contribution Snake
 <p align="center">
@@ -51,7 +62,7 @@
 ### 📫 Connect with me
 <p align="left">
   <a href="mailto:dungroi19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/s%C6%A1n-phan-018529322/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/s%C6%A1n-phan-018529322/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
