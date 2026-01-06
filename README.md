@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there, I'm Sơn (Sơn Phan) 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Aspiring+AI+Engineer;Data+Science+Student;AI+Agent+Developer" alt="Typing SVG" />
+</p>
 
-<!--
-**graviton711/graviton711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 **Current:** Freshman in **Data Science** (Sinh viên năm nhất ngành Khoa Học Dữ Liệu).
+- 🎯 **Goal:** Becoming a professional **AI Engineer**.
+- 🚀 **Passion:** Deep Learning, AI Agents, and automating everything with AI.
+- 🏴‍☠️ **Fan of:** One Piece (Huge fan of Luffy's spirit!).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <br/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-SLMs-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI--Agents-Phoenix%20%2F%20Fara-blue?style=for-the-badge" />
+</p>
+
+---
+
+### 🏆 Projects & Achievements
+- **VNPT AI Hackathon 2025:** Proud member of Team **"DuelWarriors"**.
+- **Autonomous Competitive Intelligence Agent:** Current focus on building an autonomous system for market insights.
+
+---
+
+### 📊 GitHub Stats (Cool Effects)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=graviton711&show_icons=true&theme=radical&rank_icon=github" alt="Sơn's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graviton711&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/graviton711/graviton711/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
+---
+
+### 📫 Connect with me
+<p align="left">
+  <a href="mailto:dungroi19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/s%C6%A1n-phan-018529322/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"> 
+  <i>"Road to AGI!"</i>
+</p>
