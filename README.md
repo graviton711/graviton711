@@ -9,7 +9,6 @@
 - **Current:** Freshman in **Data Science**
 - **Goal:** Becoming a professional **AI Engineer**.
 - **Passion:** Deep Learning, AI Agents, and automating everything with AI.
-- **Fan of:** One Piece (Huge fan of Luffy's spirit!).
 
 ---
 
