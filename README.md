@@ -146,7 +146,7 @@ specializations:
 ### `> watch contribution_snake.sh`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/graviton711/graviton711/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/graviton711/graviton711/output/github-contribution-grid-snake.svg?v=2" alt="Contribution Snake" />
 </div>
 
 ---
