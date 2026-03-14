@@ -19,22 +19,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: graviton711
-          MAX_REPOS: 10
-          SETTING_JSON: |
-            {
-              "githubUserName": "graviton711",
-              "totalCommits": true,
-              "fileName": "profile-3d-contrib/profile-night-rainbow.svg",
-              "backgroundColor": "#0d1117",
-              "foregroundColor": "#ffffff",
-              "contributionColorArray": ["#1e1b4b", "#4C1D95", "#7C3AED", "#F472B6", "#22D3EE"],
-              "contribTypeName": [
-                { "type": "commit", "color": "#F472B6" },
-                { "type": "issue", "color": "#A78BFA" },
-                { "type": "pullReq", "color": "#22D3EE" },
-                { "type": "review", "color": "#EC4899" }
-              ]
-            }
+          SETTING_JSON: "{}"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
