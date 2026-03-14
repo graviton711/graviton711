@@ -31,7 +31,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║   IDENTITY   :  Son Phan  (Phan Thanh Sơn)                          ║
+║   IDENTITY   :  Son Phan  (Phan Đặng Thái Sơn)                        ║
 ║   ROLE       :  Aspiring AI Engineer                                 ║
 ║   EDUCATION  :  Data Science  —  Freshman                           ║
 ║   VECTOR     :  Deep Learning → LLM Fine-Tuning → AI Agents         ║
@@ -69,7 +69,7 @@ infra:
 
 specializations:
   - LLM Fine-Tuning (SLMs)
-  - AI Agent Design  (Phoenix / Fara architecture)
+  - AI Agent Design
   - Autonomous System Architecture
 ```
 
