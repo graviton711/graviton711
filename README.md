@@ -101,9 +101,6 @@
 
 <div align="center">
 
-```
-```
-
 ![Profile Views](https://komarev.com/ghpvc/?username=graviton711&style=flat-square&color=FF6EC7&label=PROFILE+VIEWS)
 
 </div>
