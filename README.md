@@ -30,47 +30,10 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
 ║   IDENTITY   :  Son Phan  (Phan Đặng Thái Sơn)                        ║
 ║   ROLE       :  Aspiring AI Engineer                                 ║
-║   EDUCATION  :  Data Science  —  Freshman                           ║
-║   VECTOR     :  Deep Learning → LLM Fine-Tuning → AI Agents         ║
-║   MISSION    :  Build autonomous systems that think and act          ║
-║                                                                      ║
-║   CURRENT OP :  Autonomous Competitive Intelligence Agent            ║
-║   PROGRESS   :  ██████████░░░░░░░░░░  52%  [IN DEVELOPMENT]         ║
-║                                                                      ║
+║   EDUCATION  :  Data Science  —  Freshman                             ║
 ╚══════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-### `> cat tech_stack.yaml`
-
-```yaml
-languages:
-  - Python       ████████████████████  primary
-  - C++          ██████████████░░░░░░  systems & performance
-  - JavaScript   ████████████░░░░░░░░  frontend & tooling
-
-ml_ai:
-  - PyTorch          # deep learning backbone
-  - HuggingFace      # model hub & fine-tuning
-  - LangChain        # agent orchestration
-  - Pandas / NumPy   # data engineering
-
-frontend:
-  - React            # UI layer
-
-infra:
-  - Git / GitHub     # version control & CI
-  - Linux            # primary dev environment
-  - VS Code          # editor of choice
-
-specializations:
-  - LLM Fine-Tuning (SLMs)
-  - AI Agent Design
-  - Autonomous System Architecture
 ```
 
 <div align="left">
@@ -88,37 +51,6 @@ specializations:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
-
----
-
-### `> ls ./projects`
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│  [01]  AUTONOMOUS COMPETITIVE INTELLIGENCE AGENT                    │
-│  ─────────────────────────────────────────────────────────────────  │
-│  An autonomous agent that scrapes, synthesizes, and delivers        │
-│  structured market intelligence with zero human intervention.       │
-│  Designed around a multi-agent architecture for real-time           │
-│  competitive analysis and strategic insight generation.             │
-│                                                                      │
-│  Stack  :  Python · LangChain · LLM · Web Scraping                 │
-│  Status :  ██████████░░░░░░░░░░  52%  — IN PROGRESS                │
-│                                                                      │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  [02]  VNPT AI HACKATHON 2025  —  Team "DuelWarriors"               │
-│  ─────────────────────────────────────────────────────────────────  │
-│  Competed in Vietnam's premier national AI hackathon hosted         │
-│  by VNPT. Engineered and deployed a working AI solution under       │
-│  strict real-world constraints and time pressure.                   │
-│                                                                      │
-│  Tags  :  Applied AI · Rapid Prototyping · Team Collaboration      │
-│  Status:  ████████████████████  100%  — SHIPPED                    │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -170,14 +102,6 @@ specializations:
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║    "The best way to predict the future is to build it."             ║
-║                                                     — Alan Kay      ║
-║                                                                      ║
-║                  [ > ROAD TO AGI — ONE COMMIT AT A TIME ]           ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=graviton711&style=flat-square&color=FF6EC7&label=PROFILE+VIEWS)
