@@ -33,8 +33,6 @@
 
 [![Email](https://img.shields.io/badge/MAIL-dungroi19%40gmail.com-FF6EC7?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dungroi19@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Son_Phan-7DF9FF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/s%C6%A1n-phan-018529322/)
-[![GitHub](https://img.shields.io/badge/GITHUB-graviton711-FF9EDB?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/graviton711)
-
 </div>
 
 ---
