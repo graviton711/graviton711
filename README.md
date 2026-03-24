@@ -9,7 +9,7 @@
 ╚═════╝   ╚═════╝ ╚═╝  ╚═══╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=FF6EC7&center=true&width=620&lines=AI+Engineer+%2F+Data+Science+Student;Deep+Learning+%7C+LLM+Fine-Tuning+%7C+Autonomous+Agents;Building+intelligence%2C+one+commit+at+a+time.;%3E_+Road+to+AGI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=FF6EC7&center=true&width=620&lines=AI+Engineer+%2F+Data+Science+Student;Deep+Learning+%7C+LLM+Fine-Tuning+%7C+Autonomous+Agents;%3E_+Road+to+AGI" alt="Typing SVG" />
 
 </div>
 
