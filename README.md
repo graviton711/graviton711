@@ -1,32 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=FF6EC7&center=true&width=620&lines=AI+Engineer+%2F+Data+Science+Student;Deep+Learning+%7C+LLM+Fine-Tuning+%7C+Autonomous+Agents;%3E_+Road+to+AGI" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-[![Status](https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-FF6EC7?style=flat-square&labelColor=0d1117)](.)
-[![Focus](https://img.shields.io/badge/FOCUS-AI_AGENTS_%2F_LLM-7DF9FF?style=flat-square&labelColor=0d1117)](.)
-[![Student](https://img.shields.io/badge/FRESHMAN-DATA_SCIENCE-FF9EDB?style=flat-square&labelColor=0d1117)](.)
-[![Location](https://img.shields.io/badge/BASED_IN-VIETNAM-B8A9FF?style=flat-square&labelColor=0d1117)](.)
-
-</div>
-
----
-
-### `> whoami`
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║   IDENTITY   :  Son Phan  (Phan Đặng Thái Sơn)                        ║
-║   ROLE       :  Aspiring AI Engineer                                 ║
-║   EDUCATION  :  Data Science  —  Freshman                             ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="left">
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
