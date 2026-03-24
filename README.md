@@ -15,18 +15,6 @@
 
 ---
 
-### `> render contribution_3d.sh`
- 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/graviton711/graviton711/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/graviton711/graviton711/main/profile-3d-contrib/profile-south-season-animate.svg" />
-    <img alt="3D Contribution Calendar" src="https://raw.githubusercontent.com/graviton711/graviton711/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  </picture>
-</div>
-
----
-
 ### `> cat contact.txt`
 
 <div align="left">
