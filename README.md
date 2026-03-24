@@ -54,27 +54,6 @@
 
 ---
 
-### `> git log --stat`
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=graviton711&theme=nord_bright" width="500"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=graviton711&theme=nord_bright" width="260"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=graviton711&hide_border=true&background=FFFFFF00&stroke=F472B640&ring=F472B6&fire=F9A8D4&currStreakNum=F472B6&sideNums=F472B6&currStreakLabel=22C5D8&sideLabels=22C5D8&dates=94A3B8" />
-
-</div>
-
----
-
 ### `> render contribution_3d.sh`
  
 <div align="center">
