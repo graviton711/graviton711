@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="assets/autumn.webp" alt="Animated autumn leaves drifting past a low sun" width="100%">
+
+</div>
+
 <div align="left">
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
