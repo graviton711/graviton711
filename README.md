@@ -11,12 +11,14 @@
 ![lang: Java](https://img.shields.io/badge/lang-Java-b5522b?style=flat-square&labelColor=2a1c11&logo=openjdk&logoColor=f4dfbd)
 ![ml: PyTorch](https://img.shields.io/badge/ml-PyTorch-a05a2c?style=flat-square&labelColor=2a1c11&logo=pytorch&logoColor=f4dfbd)
 ![ml: vLLM](https://img.shields.io/badge/ml-vLLM-a05a2c?style=flat-square&labelColor=2a1c11&logo=vllm&logoColor=f4dfbd)
+![web: React](https://img.shields.io/badge/web-React-b5813a?style=flat-square&labelColor=2a1c11&logo=react&logoColor=f4dfbd)
+![web: Three.js](https://img.shields.io/badge/web-Three.js-b5813a?style=flat-square&labelColor=2a1c11&logo=threedotjs&logoColor=f4dfbd)
+![api: FastAPI](https://img.shields.io/badge/api-FastAPI-8a5a2e?style=flat-square&labelColor=2a1c11&logo=fastapi&logoColor=f4dfbd)
 ![infra: Docker](https://img.shields.io/badge/infra-Docker-9a6a2e?style=flat-square&labelColor=2a1c11&logo=docker&logoColor=f4dfbd)
 ![infra: Cloudflare](https://img.shields.io/badge/infra-Cloudflare-9a6a2e?style=flat-square&labelColor=2a1c11&logo=cloudflare&logoColor=f4dfbd)
 ![infra: Vercel](https://img.shields.io/badge/infra-Vercel-9a6a2e?style=flat-square&labelColor=2a1c11&logo=vercel&logoColor=f4dfbd)
 ![infra: Render](https://img.shields.io/badge/infra-Render-9a6a2e?style=flat-square&labelColor=2a1c11&logo=render&logoColor=f4dfbd)
 ![tool: Git](https://img.shields.io/badge/tool-Git-6f613f?style=flat-square&labelColor=2a1c11&logo=git&logoColor=f4dfbd)
-![also](https://img.shields.io/badge/also-pandas_%C2%B7_NumPy_%C2%B7_Jupyter_%C2%B7_SSH_%C2%B7_DNS_%C2%B7_Linux-5a4a35?style=flat-square&labelColor=2a1c11)
 
 </div>
 
