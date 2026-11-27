@@ -7,11 +7,17 @@
 <div align="left">
 
 ![lang: Python](https://img.shields.io/badge/lang-Python-b5522b?style=flat-square&labelColor=2a1c11&logo=python&logoColor=f4dfbd)
-![data: Jupyter](https://img.shields.io/badge/data-Jupyter-9a6a2e?style=flat-square&labelColor=2a1c11&logo=jupyter&logoColor=f4dfbd)
-![data: Pandas](https://img.shields.io/badge/data-Pandas-9a6a2e?style=flat-square&labelColor=2a1c11&logo=pandas&logoColor=f4dfbd)
-![data: NumPy](https://img.shields.io/badge/data-NumPy-9a6a2e?style=flat-square&labelColor=2a1c11&logo=numpy&logoColor=f4dfbd)
+![lang: C++](https://img.shields.io/badge/lang-C%2B%2B-b5522b?style=flat-square&labelColor=2a1c11&logo=cplusplus&logoColor=f4dfbd)
+![lang: Java](https://img.shields.io/badge/lang-Java-b5522b?style=flat-square&labelColor=2a1c11&logo=openjdk&logoColor=f4dfbd)
 ![ml: PyTorch](https://img.shields.io/badge/ml-PyTorch-a05a2c?style=flat-square&labelColor=2a1c11&logo=pytorch&logoColor=f4dfbd)
+![ml: vLLM](https://img.shields.io/badge/ml-vLLM-a05a2c?style=flat-square&labelColor=2a1c11&logo=vllm&logoColor=f4dfbd)
+![infra: Docker](https://img.shields.io/badge/infra-Docker-9a6a2e?style=flat-square&labelColor=2a1c11&logo=docker&logoColor=f4dfbd)
+![infra: Cloudflare](https://img.shields.io/badge/infra-Cloudflare-9a6a2e?style=flat-square&labelColor=2a1c11&logo=cloudflare&logoColor=f4dfbd)
+![infra: Vercel](https://img.shields.io/badge/infra-Vercel-9a6a2e?style=flat-square&labelColor=2a1c11&logo=vercel&logoColor=f4dfbd)
+![infra: Render](https://img.shields.io/badge/infra-Render-9a6a2e?style=flat-square&labelColor=2a1c11&logo=render&logoColor=f4dfbd)
 ![tool: Git](https://img.shields.io/badge/tool-Git-6f613f?style=flat-square&labelColor=2a1c11&logo=git&logoColor=f4dfbd)
+
+<sub>also: pandas · NumPy · Jupyter · SSH · DNS · Linux</sub>
 
 </div>
 
