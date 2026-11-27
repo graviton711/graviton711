@@ -26,7 +26,7 @@
 <div align="left">
 
 [![Email](https://img.shields.io/badge/MAIL-dungroi19%40gmail.com-FF6EC7?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dungroi19@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Son_Phan-7DF9FF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/s%C6%A1n-phan-018529322/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Shan-7DF9FF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/s%C6%A1n-phan-018529322/)
 </div>
 
 ---
