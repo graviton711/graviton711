@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/avatar.webp" alt="Animated gilded autumn avatar frame around Danjin" width="150">
+
 <img src="assets/autumn.webp" alt="Animated autumn leaves drifting past a low sun" width="100%">
 
 </div>
