@@ -21,14 +21,14 @@
 
 <div align="left">
 
-[![Email](https://img.shields.io/badge/MAIL-dungroi19%40gmail.com-FF6EC7?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dungroi19@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Shan-7DF9FF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/s%C6%A1n-phan-018529322/)
+[![Email](https://img.shields.io/badge/MAIL-dungroi19%40gmail.com-b5522b?style=flat-square&logo=gmail&logoColor=f4dfbd&labelColor=2a1c11)](mailto:dungroi19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Shan-6f613f?style=flat-square&logo=linkedin&logoColor=f4dfbd&labelColor=2a1c11)](https://www.linkedin.com/in/s%C6%A1n-phan-018529322/)
 </div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=graviton711&style=flat-square&color=FF6EC7&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=graviton711&style=flat-square&color=9a6a2e&label=PROFILE+VIEWS)
 
 </div>
