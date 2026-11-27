@@ -16,8 +16,7 @@
 ![infra: Vercel](https://img.shields.io/badge/infra-Vercel-9a6a2e?style=flat-square&labelColor=2a1c11&logo=vercel&logoColor=f4dfbd)
 ![infra: Render](https://img.shields.io/badge/infra-Render-9a6a2e?style=flat-square&labelColor=2a1c11&logo=render&logoColor=f4dfbd)
 ![tool: Git](https://img.shields.io/badge/tool-Git-6f613f?style=flat-square&labelColor=2a1c11&logo=git&logoColor=f4dfbd)
-
-<sub>also: pandas · NumPy · Jupyter · SSH · DNS · Linux</sub>
+![also](https://img.shields.io/badge/also-pandas_%C2%B7_NumPy_%C2%B7_Jupyter_%C2%B7_SSH_%C2%B7_DNS_%C2%B7_Linux-5a4a35?style=flat-square&labelColor=2a1c11)
 
 </div>
 
