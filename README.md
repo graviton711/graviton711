@@ -6,16 +6,12 @@
 
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![lang: Python](https://img.shields.io/badge/lang-Python-b5522b?style=flat-square&labelColor=2a1c11&logo=python&logoColor=f4dfbd)
+![data: Jupyter](https://img.shields.io/badge/data-Jupyter-9a6a2e?style=flat-square&labelColor=2a1c11&logo=jupyter&logoColor=f4dfbd)
+![data: Pandas](https://img.shields.io/badge/data-Pandas-9a6a2e?style=flat-square&labelColor=2a1c11&logo=pandas&logoColor=f4dfbd)
+![data: NumPy](https://img.shields.io/badge/data-NumPy-9a6a2e?style=flat-square&labelColor=2a1c11&logo=numpy&logoColor=f4dfbd)
+![ml: PyTorch](https://img.shields.io/badge/ml-PyTorch-a05a2c?style=flat-square&labelColor=2a1c11&logo=pytorch&logoColor=f4dfbd)
+![tool: Git](https://img.shields.io/badge/tool-Git-6f613f?style=flat-square&labelColor=2a1c11&logo=git&logoColor=f4dfbd)
 
 </div>
 
